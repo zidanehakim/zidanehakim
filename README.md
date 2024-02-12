@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zidanehakim
-- 👀 I’m interested in ... HTML, CSS, JAVASCRIPT
-- 🌱 I’m currently learning ... HTML, CSS, JAVASCRIPT
-- 💞️ I’m looking to collaborate on ... HTML, CSS, JAVASCRIPT
+- 👀 I’m interested in ... full-stack developer
+- 🌱 I’m currently learning ... full-stack frameworks
+- 💞️ I’m looking for ... a full-stack bedsheet to lay on
 - 📫 How to reach me ... i'm always in my room
 
 <!---
