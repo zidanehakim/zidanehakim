@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zidanehakim
-- 👀 I’m interested in ... full-stack developer
+- 👀 I’m interested in ... full-stack development
 - 🌱 I’m currently learning ... full-stack frameworks
 - 💞️ I’m looking for ... a full-stack bedsheet to lay on
 - 📫 How to reach me ... i'm always in my room
