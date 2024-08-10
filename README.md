@@ -1,6 +1,10 @@
 ## Hi 👋 I'm Nu1LSpaxe
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nu1LSpaxe&hide=Jupyter%20Notebook,css,scss,html&theme=tokyonight)
+[base-url]: https://github-readme-stats.vercel.app/api/top-langs/?username=Nu1LSpaxe&theme=tokyonight
+[hide-langs]: hide=Jupyter%20Notebook,css,scss,html
+[exclude-repos]: exclude_repo=data-analysis-and-machine-learning, AutoGPT
+
+![Top Langs][base-url&[hide-langs]&[exclude-repos]]
 
 <!--
 **Nu1LSpaxe/Nu1LSpaxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
