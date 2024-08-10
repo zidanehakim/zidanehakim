@@ -3,7 +3,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nu1LSpaxe&theme=tokyonight&hide=Jupyter%20Notebook,css,scss,html&exclude_repo=data-analysis-and-machine-learning,AutoGPT,Taipei-City-Dashboard)
 
-![Nu1LSpaxe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nu1lspaxe&text_color=87ff87&title_color=87ff87&hide_border=true&layout=compact&theme=transparent)
+![Nu1LSpaxe's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nu1lspaxe)]
 
 <!--
 **Nu1LSpaxe/Nu1LSpaxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
