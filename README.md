@@ -4,7 +4,7 @@
 ---
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=go,java,nodejs,js,ts,c++,python,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,java,nodejs,js,ts,cpp,python,bash)](https://skillicons.dev)
 
 ### Tookits
 [![My Skills](https://skillicons.dev/icons?i=docker,nginx,git,gitlab,gcp)](https://skillicons.dev)
