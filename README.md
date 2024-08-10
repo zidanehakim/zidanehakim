@@ -6,7 +6,7 @@ exclude_repos: exclude_repo=data-analysis-and-machine-learning,AutoGPT,Taipei-Ci
 
 ![Top Langs][{{ base_url }}&{{ hide_langs }}&{{ exclude_repos }}]
 
-![Nu1LSpaxe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nu1LSpaxe&text_color=87ff87&title_color=87ff87&hide_border=true&layout=compact&theme=transparent)
+![Nu1LSpaxe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nu1lspaxe&text_color=87ff87&title_color=87ff87&hide_border=true&layout=compact&theme=transparent)
 
 <!--
 **Nu1LSpaxe/Nu1LSpaxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
