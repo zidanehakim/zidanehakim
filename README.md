@@ -2,9 +2,9 @@
 
 ## :thought_balloon: About me
 
-- :technologist: I'm a backend developer
+- :technologist: I'm a backend developer, also a college student
 - :sparkles: With experience in building full-stack websites, servers, smart contracts and machine learning related projects
-- :globe_with_meridians: I'm passionate about exploring a wide array of new technologies, not only but including web development, AI, cloud, and blockchain...
+- :globe_with_meridians: I'm passionate about new technologies, including web development, AI, cloud, and blockchain...
 - :mechanical_arm: Enjoy collaborating with teammates to participate in hackathons and work on exciting projects
 
 ---
