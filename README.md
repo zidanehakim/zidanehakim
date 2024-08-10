@@ -2,7 +2,7 @@
 
 [base-url]: https://github-readme-stats.vercel.app/api/top-langs/?username=Nu1LSpaxe&theme=tokyonight
 [hide-langs]: hide=Jupyter%20Notebook,css,scss,html
-[exclude-repos]: exclude_repo=data-analysis-and-machine-learning, AutoGPT
+[exclude-repos]: exclude_repo=data-analysis-and-machine-learning,AutoGPT,Taipei-City-Dashboard
 
 ![Top Langs][base-url&[hide-langs]&[exclude-repos]]
 
