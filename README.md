@@ -6,7 +6,7 @@
 ## Skill Tree
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=go,java,nodejs,js,ts,cpp,python,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,java,nodejs,ts,cpp,python,bash)](https://skillicons.dev)
 
 ### Tookits
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,docker,nginx,git,gitlab,gcp)](https://skillicons.dev)
