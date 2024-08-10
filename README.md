@@ -4,7 +4,7 @@
 
 - :technologist: I'm a backend developer, also a college student
 - :sparkles: With experience in building full-stack websites, servers, smart contracts and machine learning related projects
-- :globe_with_meridians: I'm passionate about new technologies, including web development, AI, cloud, and blockchain, etc.
+- :globe_with_meridians: Passionate about new technologies, including web development, AI, cloud, and blockchain, etc.
 - :mechanical_arm: Enjoy collaborating with teammates in hackathons and exciting projects
 
 ---
