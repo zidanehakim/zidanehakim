@@ -1,5 +1,11 @@
 ## Hi 👋 I'm Nu1LSpaxe
 
+## :thought_balloon: About me
+
+- :technologist: I'm a backend developer
+- :sparkles: With experience in building full-stack websites, servers, smart contracts and machine learning related projects
+- :globe_with_meridians: I'm passionate about exploring a wide array of new technologies, not only but including web development, AI, cloud, and blockchain...
+- :mechanical_arm: Enjoy collaborating with teammates to participate in hackathons and work on exciting projects
 
 ---
 
