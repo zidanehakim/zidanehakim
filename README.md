@@ -3,16 +3,16 @@
 
 ---
 
-## Skill Tree
+## :seedling: Skill Tree
 
-### Languages
+### :octocat: Languages
 [![My Skills](https://skillicons.dev/icons?i=go,java,nodejs,ts,cpp,bash)](https://skillicons.dev)
 
 ### :hammer_and_pick: Tookits
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,docker,nginx,gcp,git,gitlab)](https://skillicons.dev)
 
 
-## Github Stats
+## :bar_chart: Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nu1LSpaxe&theme=tokyonight&hide=Jupyter%20Notebook,css,scss,html&exclude_repo=data-analysis-and-machine-learning,AutoGPT,Taipei-City-Dashboard,aspnet-mvc-ntust,aspnet-mvc-soldier,leetcode75)
 
 <!--
