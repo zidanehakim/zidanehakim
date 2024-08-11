@@ -6,6 +6,7 @@
 - :sparkles: With experience in building full-stack websites, servers, smart contracts and machine learning related projects
 - :globe_with_meridians: Passionate about new technologies, including web development, AI, cloud, and blockchain, etc.
 - :mechanical_arm: Enjoy collaborating with teammates in hackathons and exciting projects
+- :bug: A good self-learner having an appetite for knowledge and well problem-solving ability
 
 ---
 
