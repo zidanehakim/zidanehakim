@@ -8,6 +8,8 @@
 - :mechanical_arm: Enjoy collaborating with teammates in hackathons and exciting projects
 - :bug: A good self-learner having an appetite for knowledge and well problem-solving ability
 
+</> [Leetcode](https://leetcode.com/nu1lspaxe/)
+
 ---
 
 ## :seedling: Skill Tree
