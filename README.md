@@ -18,7 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=go,java,nodejs,js,ts,py)](https://skillicons.dev)
 
 ### :hammer_and_pick: Tookits
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,sqlite,docker,kubernetes,nginx,git,gitlab,github,githubactions,gcp,postman,spring,gradle,express,react,redux,jest,npm,fastapi,flask,visualstudio,vscode,vim,notion,md,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,sqlite,docker,kubernetes,nginx,git,gitlab,github,githubactions,gcp,vercel,ansible,terraform,jenkins,postman,spring,gradle,express,react,redux,jest,bootstrap,vite,npm,pnpm,fastapi,flask,visualstudio,vscode,linux,vim,bash,notion,md,latex)](https://skillicons.dev)
 
 
 ## :bar_chart: Github Stats
